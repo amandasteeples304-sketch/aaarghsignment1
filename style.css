@@ -1,0 +1,23 @@
+head {
+  background-image: url("mossy-stones.jpeg");
+}
+
+.container {
+  background-color: aqua;
+  font-size: 12px;
+  font-family: lucida;
+  height: 70px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 80%;
+  margin: auto;
+}
+
+body {
+  background-image: url("calming-mountain.jpeg");
+}
