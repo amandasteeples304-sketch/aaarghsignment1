@@ -1,5 +1,17 @@
-head {
-  background-image: url("mossy-stones.jpeg");
+* {
+  margin: 0;
+}
+
+.feature {
+  background-color: blueviolet;
+  background-size: cover;
+  height: 100vh;
+
+  position: relative;
+}
+
+.mossy-stones {
+  background-image: url("./mossy-stones.jpeg");
 }
 
 .container {
@@ -18,6 +30,10 @@ head {
   margin: auto;
 }
 
-body {
-  background-image: url("calming-mountain.jpeg");
+.calming-mountains {
+  background-image: url("./calming-mountain.jpeg");
+}
+
+.above-clouds {
+  background-image: url("./above-clouds.jpeg");
 }
