@@ -3,7 +3,7 @@
 }
 
 .feature {
-  background-color: blueviolet;
+  background-color: rgb(129, 167, 237);
   background-size: cover;
   height: 100vh;
 
@@ -14,21 +14,25 @@
   background-image: url("./mossy-stones.jpeg");
 }
 
-.home {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+h1 {
+  background-color: rgb(129, 167, 237);
+  font-size: 16;
 }
-.about {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+.cta-box {
+  position: absolute;
+  bottom: 225px;
+  left: 125px;
 }
-.breathwork {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+h2 {
+  background-color: rgb(129, 167, 237);
+  font-size: 16;
 }
-.miley {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-}
-.brr {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+
+footer {
+  background-color: rgb(129, 167, 237);
+  font-size: 14;
 }
 
 .navbar {
@@ -40,6 +44,62 @@
   position: sticky;
   top: 0;
   z-index: 1000;
+  background-color: rgb(129, 167, 237);
+}
+
+.nav-home {
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.nav-about {
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.nav-breathing {
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.nav-5things {
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.nav-ice {
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
+.navhome .search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+  margin-right: 5px;
+}
+
+.search-button {
+  padding: 5px 10px;
+  background-color: rgb(129, 167, 237);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}
+
+.search-button i {
+  font-size: 14px;
 }
 
 .nav-item:hover {
