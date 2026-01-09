@@ -1,1 +1,3 @@
 # aaarghsignment1
+
+My brain likes theory and practical, but it won't absorb the theory until I do more practice, then it forces itself to learn the theory as it goes along. The more I research the more I get tangeled and the more I have to untangel myself from. This is good because I'm learning through trial and error, which is how my brain enjoys learning. However, I do wish my brain would learn through theory and then doing as this would be simpler and quicker. This is no reflection on the course structure or anything whatsoever, I am enjoying the theory and practice ratio, it works really well; it is just a comment on my brain.
