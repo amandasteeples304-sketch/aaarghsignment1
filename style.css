@@ -14,20 +14,36 @@
   background-image: url("./mossy-stones.jpeg");
 }
 
-.container {
-  background-color: aqua;
-  font-size: 12px;
-  font-family: lucida;
-  height: 70px;
+.home {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.about {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.breathwork {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.miley {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.brr {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .navbar {
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  height: 100%;
-  width: 80%;
-  margin: auto;
+  padding: 10px 20px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-item:hover {
+  font-size: larger;
 }
 
 .calming-mountains {
