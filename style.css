@@ -10,10 +10,6 @@
   position: relative;
 }
 
-.mossy-stones {
-  background-image: url("./mossy-stones.jpeg");
-}
-
 h1 {
   background-color: rgb(129, 167, 237);
   font-size: 16;
@@ -21,8 +17,8 @@ h1 {
 
 .cta-box {
   position: absolute;
-  bottom: 225px;
-  left: 125px;
+  bottom: 50px;
+  left: 25px;
 }
 
 h2 {
@@ -110,6 +106,40 @@ footer {
   background-image: url("./calming-mountain.jpeg");
 }
 
+.calming-mountains {
+  opacity: 1;
+  filter: alpha(opacity=40);
+}
+
+.calming-mountains:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+}
+
 .above-clouds {
   background-image: url("./above-clouds.jpeg");
+}
+
+.above-clouds {
+  opacity: 1;
+  filter: alpha(opacity=40);
+}
+
+.above-clouds:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+}
+
+.relaxing-snow {
+  background-image: url("./relaxing-snow.jpeg");
+}
+
+.relaxing-snow {
+  opacity: 1;
+  filter: alpha(opacity=40);
+}
+
+.relaxing-snow:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
 }
