@@ -31,6 +31,10 @@ footer {
   background-color: rgb(129, 167, 237);
   font-size: 14;
   color: white;
+  text-align: center;
+  padding: 40px;
+  display: block;
+  unicode-bidi: isolate;
 }
 
 .navbar {
@@ -80,7 +84,7 @@ footer {
   align-items: center;
 }
 
-.search-input {
+.site-search {
   padding: 5px;
   border: none;
   border-radius: 3px;

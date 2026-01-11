@@ -1,7 +1,7 @@
 const myButton = document.querySelector("button");
 console.log(myButton);
 
-myButton.textContent = "Click me please";
+myButton.textContent = "Search";
 
 myButton.addEventListener("click", function () {
   console.log("button clicked");
