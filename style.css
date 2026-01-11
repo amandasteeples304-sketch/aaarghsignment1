@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  /* background-color: rgb(129, 167, 237); */
 }
 
 .feature {
@@ -159,5 +160,11 @@ section {
   border: 2px solid white;
   padding: 1rem 2rem;
   text-decoration: none;
+  background-color: rgb(129, 167, 237);
+}
+
+.audio-player {
+  width: 10px;
+  margin: 5px;
   background-color: rgb(129, 167, 237);
 }
